@@ -170,9 +170,9 @@ The application displays:
 
 **Kasulu Jalasutram**
 
-GitHub: https://github.com/YOUR_USERNAME
+GitHub: https://github.com/kasulijalasutram
 
-LinkedIn: Add Your LinkedIn Profile
+LinkedIn: https://www.linkedin.com/in/kasulu-jalasutram-25b332338/
 
 ---
 
